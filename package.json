@@ -12,6 +12,7 @@
     "@observablehq/framework": "^1.13.3",
     "d3-dsv": "^3.0.1",
     "d3-time-format": "^4.1.0",
+      "@vercel/node": "^2.9.6",
     "date-fns": "^4.1.0",
     "xlsx": "^0.18.5"
   },
